@@ -1,0 +1,21 @@
+🧠 Mental Health Tweet Classification using NLP
+
+🩺 Detecting signs of mental health issues in tweets using Natural Language Processing and Machine Learning
+🔍 Overview
+
+This project builds and compares multiple NLP models to classify tweets related to mental health awareness.
+Using TF-IDF vectorization and machine learning algorithms such as SVM, Logistic Regression, and Naive Bayes, the goal is to detect whether a tweet reflects mental distress or is neutral.
+
+🧩 Key Features
+
+🧹 Comprehensive Preprocessing using NLTK (lemmatization, stopword removal, cleaning emojis & URLs)
+
+🔠 TF-IDF Vectorization with unigrams and bigrams
+
+⚙️ Multi-model Comparison — Logistic Regression, SVM, Naive Bayes, Random Forest, Gradient Boosting
+
+📊 Confusion Matrices & F1 Comparison Charts
+
+🔎 Error Inspection for misclassified tweets
+
+⚖️ Balanced Training to handle label imbalance
